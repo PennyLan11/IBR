@@ -1,0 +1,18 @@
+import React from 'react';
+
+const TrainingProgram = () => {
+    return (
+        <div
+            style= {{
+                display: 'flex',
+                justifyContent: 'Right',
+                alignItems: 'Right',
+                height: '100vh'
+            }}
+        >
+            <h1>Training Program </h1>
+        </div>
+    );
+};
+
+export default TrainingProgram;
